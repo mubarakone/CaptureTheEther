@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 //                        *****AUDITED***** 
-//  https://capturetheether.com/challenges/lotteries/guess-the-random-number/
+//  https://capturetheether.com/challenges/lotteries/guess-the-secret-number/
 //         ^^^^^^^^^^^^ ORIGNIAL CONTRACT HERE ^^^^^^^^^^^^^^
 
 contract GuessTheSecretNumberChallenge {

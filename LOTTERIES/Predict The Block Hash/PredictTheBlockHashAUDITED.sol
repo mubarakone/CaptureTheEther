@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-//                        *****AUDITED***** 
+//                          *****AUDITED***** 
 //  https://capturetheether.com/challenges/lotteries/predict-the-block-hash/
 //           ^^^^^^^^^^^^ ORIGINAL CONTRACT HERE ^^^^^^^^^^^^^^
 

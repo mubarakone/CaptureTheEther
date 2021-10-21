@@ -1,6 +1,8 @@
 pragma solidity ^0.4.21;
 
-//           *****AUDITED*****
+//                        *****AUDITED***** 
+// "https://capturetheether.com/challenges/lotteries/guess-the-new-number/"
+//          ^^^^^^^^^^^^ ORIGINAL CONTRACT HERE ^^^^^^^^^^^^^^
 
 contract RandomNumberConsumer is VRFConsumerBase {
     

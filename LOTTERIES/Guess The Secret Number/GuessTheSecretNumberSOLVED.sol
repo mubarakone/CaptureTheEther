@@ -1,6 +1,8 @@
 pragma solidity ^0.4.21;
 
-//       *****SOLVED*****
+//                        *****SOLVED***** 
+//  https://capturetheether.com/challenges/lotteries/guess-the-secret-number/
+//           ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
 
 contract CaptureTheEther {
     bytes32 answerHash = 0xdb81b4d58595fbbbb592d3661a34cdca14d7ab379441400cbfa1b78bc447c365;

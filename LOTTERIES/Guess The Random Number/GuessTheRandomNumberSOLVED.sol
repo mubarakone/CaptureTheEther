@@ -1,4 +1,8 @@
-//          *****SOLUTION*****
+pragma solidity ^0.4.21;
+
+//                        *****SOLVED***** 
+//  https://capturetheether.com/challenges/lotteries/guess-the-random-number/
+//           ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
 
 contract CaptureTheEther {
     PredictTheBlockHashChallenge predict = PredictTheBlockHashChallenge(/* INSERT CONTRACT ADDRESS */);

@@ -1,4 +1,6 @@
-//  *****AUDITED*****
+//                        *****AUDITED***** 
+//  https://capturetheether.com/challenges/lotteries/guess-the-number/
+//           ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
 
 contract GuessTheNumberChallenge {
     uint8 answer = 42;

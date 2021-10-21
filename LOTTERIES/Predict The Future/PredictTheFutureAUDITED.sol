@@ -62,7 +62,7 @@ contract PredictTheFutureChallenge {
         require(block.number > settlementBlockNumber);
         
         randomNumber.getRandomNumber(block.number - 1);
-        uint8 answer = uint8(keccak256(abi.encodePacked(randomNumber.randomResult())));
+        uint8 answer = uint8(keccak256(abi.encodePacked(randomNumber.randomResult()))) % 10;
 
         guesser = 0;
         if (guess == answer) {

@@ -1,4 +1,8 @@
-//   *****SOLVED*****
+pragma solidity ^0.4.21;
+
+//                        *****AUDITED***** 
+//  https://capturetheether.com/challenges/lotteries/guess-the-number/
+//           ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
 
 contract CaptureTheEther {
     GuessTheNumberChallenge number = GuessTheNumberChallenge(/* INSERT CONTRACT ADDRESS */)

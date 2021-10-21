@@ -42,7 +42,7 @@ contract GuessTheRandomNumberChallenge {
 
     constructor() public payable {
         require(msg.value == 1 ether);
-        answer = uint8(keccak256(abi.encodePacked(randomNumber.getRandomNumber(908326571265903))));
+        answer = uint8(keccak256(abi.encodePacked(randomNumber.getRandomNumber(now))));
     }
 
     function isComplete() public view returns (bool) {

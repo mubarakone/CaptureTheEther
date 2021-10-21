@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-//                        *****AUDITED***** 
+//                        *****SOLVED***** 
 //  https://capturetheether.com/challenges/lotteries/guess-the-number/
 //           ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
 

@@ -2,7 +2,7 @@ pragma solidity ^0.4.21;
 
 //                        *****AUDITED***** 
 //  https://capturetheether.com/challenges/lotteries/guess-the-random-number/
-//           ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
+//        ^^^^^^^^^^^^ ORIGINAL CONTRACT HERE ^^^^^^^^^^^^^^
 
 import "@chainlink/contracts/src/v0.8/VRFConsumerBase.sol";
 

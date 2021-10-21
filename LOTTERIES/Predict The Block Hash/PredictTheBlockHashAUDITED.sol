@@ -2,7 +2,7 @@ pragma solidity ^0.4.21;
 
 //                        *****AUDITED***** 
 //  https://capturetheether.com/challenges/lotteries/predict-the-block-hash/
-//           ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
+//           ^^^^^^^^^^^^ ORIGINAL CONTRACT HERE ^^^^^^^^^^^^^^
 
 contract RandomNumberConsumer is VRFConsumerBase {
     

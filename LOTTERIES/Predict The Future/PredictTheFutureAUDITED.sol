@@ -1,6 +1,8 @@
 pragma solidity ^0.4.21;
 
-//                      *****AUDITED*****
+//                        *****AUDITED***** 
+//  https://capturetheether.com/challenges/lotteries/predict-the-future/
+//        ^^^^^^^^^^^^ ORIGINAL CONTRACT HERE ^^^^^^^^^^^^^^
 
 contract RandomNumberConsumer is VRFConsumerBase {
     

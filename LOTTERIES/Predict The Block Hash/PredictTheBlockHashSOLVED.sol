@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 //                        *****SOLVED***** 
-//  https://capturetheether.com/challenges/lotteries/predict-the-future/
+//  https://capturetheether.com/challenges/lotteries/predict-the-block-hash/
 //           ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
 
 contract CaptureTheEther {

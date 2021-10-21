@@ -2,7 +2,7 @@ pragma solidity ^0.4.21;
 
 //                        *****SOLVED***** 
 //  https://capturetheether.com/challenges/lotteries/predict-the-future/
-//        ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
+//          ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
 
 contract CaptureTheEther {
     PredictTheFutureChallenge future = PredictTheFutureChallenge(/* INSERT CONTRACT ADDRESS */);

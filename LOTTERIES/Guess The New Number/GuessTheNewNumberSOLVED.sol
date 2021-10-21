@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 //                        *****SOLVED***** 
-// https://capturetheether.com/challenges/lotteries/guess-the-new-number/
+// "https://capturetheether.com/challenges/lotteries/guess-the-new-number/"
 //          ^^^^^^^^^^^^ CAPTURE ETH HERE ^^^^^^^^^^^^^^
 
 contract CaptureTheEther {

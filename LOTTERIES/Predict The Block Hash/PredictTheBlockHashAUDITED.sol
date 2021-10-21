@@ -60,8 +60,9 @@ contract PredictTheBlockHashChallenge {
     function settle() public {
         require(msg.sender == guesser);
         require(block.number > settlementBlockNumber);
-
-        bytes32 answer = bytes32(keccak256(abi.encodePacked(randomNumber.getRandomNumber(settlementBlockNumber))));
+        
+        randomNumber.getRandomNumber(settlementBlockNumber);
+        bytes32 answer = bytes32(keccak256(abi.encodePacked(randomNumber.randomResult())));
 
         guesser = 0;
         if (guess == answer) {

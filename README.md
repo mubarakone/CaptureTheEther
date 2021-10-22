@@ -1,3 +1,4 @@
 # CaptureTheEther
-So far, the Lotteries challenges have been completed:
+*So far, the Lotteries challenges have been completed:*
 https://capturetheether.com/challenges/lotteries/
+<h3> CONTRACTS WILL NOT RUN AS IS. PROPER AMOUNTS OF ETH AND LINK TOKENS WILL BE NEEDED ONCE PROPERLY DEPLOYED IN TEST NETWORKS. CONTRACTS THAT REQUIRE OTHER CONRACT ADDRESSES MUST BE DEPLOYED LAST IN ORDER TO HARDCODE THE ADDRESSES BEFOREHAND

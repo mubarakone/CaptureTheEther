@@ -47,7 +47,9 @@ contract GuessTheNewNumberChallenge {
 
     function guess(uint8 n) public payable {
         require(msg.value == 1 ether);
-        uint8 answer = uint8(keccak256(abi.encodePacked(randomNumber.getRandomNumber(n))));
+        
+        randomNumber.getRandomNumber(n);
+        uint8 answer = uint8(keccak256(abi.encodePacked(randomNumber.randomResult())));
 
         if (n == answer) {
             msg.sender.transfer(2 ether);
